@@ -200,6 +200,55 @@ footer h3 a {
     }
     
 }
+
+@media (max-width:1280px) {
+    header {
+        height: 150px;
+    }
+    header h1 {
+        font-size: 100px;
+        margin-left: 30px;
+    }
+    header h2 {
+        font-size: 22px;
+        margin-top: 17px;
+        width: 1212px;
+        height: 32px;
+    }
+    header h3 {
+        font-size: 18px;
+        margin-left: 920px;
+        margin-top: -160px;
+    }
+    header h3 img {
+        height: 28px;
+    }
+    header h4 {
+        font-size: 18px;
+        margin-left: 1085px;
+        margin-top: -26px;
+    }
+    header h4 img {
+        height: 20px;
+    }
+    header h5 {
+        margin-top: -18px;
+        margin-left: 180px;
+        font-size: 40px;
+    }
+    header h6 {
+        margin-left: 180px;
+        font-size: 15px;
+    }
+    main {
+        width: 1212px;
+    }
+    footer {
+        height: 110px;
+        margin-top: 194px;
+    }
+}
+
 @media (max-width:1024px) {
     header {
         height: 150px;

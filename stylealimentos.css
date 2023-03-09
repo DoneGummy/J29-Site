@@ -338,6 +338,53 @@ footer h3 a {
     }
 
 }
+
+@media (max-width:1280px) {
+    header {
+        height: 150px;
+    }
+    header h1 {
+        font-size: 100px;
+        margin-left: 30px;
+    }
+    header h2 {
+        margin-left: 40px;
+    }
+    header h3 {
+        font-size: 18px;
+        margin-top: 47px;
+        width: 1212px;
+    }
+    header h5 {
+        margin-top: -158px;
+        margin-left: 180px;
+        font-size: 40px;
+    }
+    header h6 {
+        margin-top: -11px;
+        margin-left: 180px;
+        font-size: 15px;
+    }
+    main {
+        width: 1212px;
+    }
+    .ul1d {
+        margin-left: -75px;
+    }
+    .ul2d {
+        margin-left: 580px;
+    }
+    .gira {
+        margin-left: -570px;
+    }
+    .ul1g {
+        margin-left: 350px;
+    }
+    .ul2g {
+        margin-left: 0px;
+    }
+}
+
 @media (max-width:1024px) {
     header {
         height: 150px;
