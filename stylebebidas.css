@@ -505,6 +505,197 @@ main h3 {
             font-size: 17px;
         }
 }
+
+@media (max-width:479px) {
+    header {
+        height: 90px;
+    }
+    header h1 {
+        font-size: 50px;
+        margin-left: 12px;
+        margin-top: -10px;
+    }
+    header h2 {
+        font-size: 25px;
+        margin-top: -40px;
+        margin-left: 25px;
+    }
+    header h3 { 
+        word-spacing: 12px;
+        font-size: 12px;
+        height: 22px;
+        padding-top: 3px;
+        margin-top: 30px;
+        margin-left: 10px;
+        width: 456px;
+    }
+    header h5 {
+        font-size: 0;
+    }
+    header h6 {
+        font-size: 0;
+    }
+    main {
+        height: 7000px;
+        width: 456px;
+        margin-left: 10px;
+        margin-top: 70px;
+    }
+    main h1 {
+        font-size: 15px;
+        margin-left: 30px;
+    }
+    main h2 {
+        font-size: 12px;
+    }
+    main h3 {
+        font-size: 10px;
+    }
+    main h4 {
+        margin: 0px;
+        margin-top: 160px;
+        margin-bottom: -100px;
+    }
+    .ul2b {
+        margin: 0;
+        margin-top: 0px;
+        margin-left: -80px;
+    }
+    .balasso {
+        margin-bottom: 160px;
+
+    }
+    .balasso img {
+        height: 160px;
+        width: auto;
+        padding: 20px;
+    }
+    .balasso h2 {
+        margin-top: -165px;
+        margin-left: 135px;
+        font-size: 16px;
+    }
+    .balasso h3 {
+        margin-left: 135px;
+        font-size: 14px;
+    }
+    .balassos {
+        margin-bottom: 135px;
+    }
+    .balassos img {
+        height: 150px;
+        width: auto;
+    }
+    .balassos h2 {
+        margin-top: -155px;
+        margin-left: 135px;
+        font-size: 14px;
+    }
+    .balassos h3 {
+        margin-left: 135px;
+        font-size: 12px;
+    }
+   .sublime {
+    margin-bottom: 80px;
+    margin-left: 90px;
+   }
+   .sublime img {
+    height: 90px;
+    width: auto;
+    padding: 0;
+   }
+   .sublime h2 {
+    font-size: 14px;
+    margin-top: -90px;
+    margin-left: 160px;
+   }
+   .sublime h3 {
+    font-size: 12px;
+    margin-left: 160px;
+   }
+   .ul2s li {
+    margin-bottom: 60px;
+   }
+   .tikito img {
+    height: 130px;
+   }
+   .tikito h2 {
+    margin-top: -135px;
+    margin-left: 160px;
+   }
+   .tikito h3 {
+    margin-left: 160px;
+   }
+   .ul2t {
+    margin-left: -80px;
+    margin-top: 0px;
+   }
+   .ul2t {
+    margin-bottom: -250px;
+   }
+   .outros img {
+    height: 100px;
+    padding: 0px;
+   }
+   .outros {
+    margin-left: 85px;
+   }
+   .outros h2 {
+    margin-top: -105px;
+    margin-left: 175px;
+   }
+   .outros h3 {
+    margin-left: 175px;
+   }
+   .hitspower {
+    margin-top: -50px;
+    margin-bottom: 220px;
+   }
+   .hitspower img {
+    height: 170px;
+    width: 110px;
+   }
+   .hitspower h2 {
+    margin-top: -170px;
+   }
+   footer {
+    height: 80px;
+    margin-top: 200px;
+    }
+    footer h1 {
+        font-size: 12px;
+    }
+    footer h1 a {
+        font-size: 15px;
+    }
+    footer h2 {
+        margin: 0px;
+        margin-top: -10px;
+        margin-left: 10px;
+    }
+    footer h2 a{
+        font-size: 12px;
+        text-align:  center;
+        padding: 0px;
+        padding-right: 10px;
+    }
+    footer h3 {
+        font-size: 12px;
+        margin: 0px;
+        padding: 0px;
+        margin-top: 3px;
+        margin-left: 10px;
+        
+    }
+    footer h3 a {
+        font-size: 12px;
+        margin: 0px;
+        padding: 0px;
+        padding-right: 10px;
+        
+    }
+}
+
 @media (max-width:375px) {
     header {
         height: 90px;
