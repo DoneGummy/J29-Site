@@ -463,6 +463,185 @@ footer h3 a {
             margin-left: 115px;
         }
     
+        @media (max-width:479px) {
+            header {
+                height: 90px;
+            }
+            header h1 {
+                font-size: 50px;
+                margin-left: 12px;
+                margin-top: -10px;
+            }
+            header h2 {
+                font-size: 25px;
+                margin-top: -40px;
+                margin-left: 25px;
+            }
+            header h3 { 
+                word-spacing: 12px;
+                font-size: 12px;
+                height: 22px;
+                padding-top: 3px;
+                margin-top: 30px;
+                margin-left: 10px;
+                width: 456px;
+            }
+            header h5 {
+                font-size: 0;
+            }
+            header h6 {
+                font-size: 0;
+            }
+            main {
+                height: 7100px;
+                width: 456px;
+                margin-left: 10px;
+                margin-top: 70px;
+            }
+            main img {
+                height: 180px;
+            }
+            main h1 {
+                font-size: 15px;
+                margin-left: 30px;
+            }
+            main h2 {
+                font-size: 12px;
+            }
+            main h3 {
+                font-size: 10px;
+            }
+            main h4 {
+                margin: 0px;
+                margin-top: 160px;
+                margin-bottom: -100px;
+            }
+            .ul1a li h2 {
+                margin-top: -180px;
+                margin-left: 170px;
+            }
+            .ul1a li h3 {
+                margin-left: 170px;
+            }
+            .ul2a {
+                margin-left: -70px;
+                margin-top: 200px;
+            }
+            .ul2a h2 {
+                margin-top: -180px;
+                margin-left: 170px;
+            }
+            .ul2a h3 {
+                margin-left: 170px;
+            }
+            .moca img {
+                height: 150px;
+            }
+            .moca h2 {
+                margin-top: -155px;
+                margin-left: 230px;
+            }
+            .moca h3 {
+                margin-left: 230px;
+            }
+            .ul2l {
+                margin-top: -4840px;
+                margin-left: 450px;
+            }
+            .metalizados h2 {
+                margin-top: -180px;
+                margin-left: 140px;
+            }
+            .metalizados h3 {
+                margin-left: 140px;
+            }
+            .metalizados2 h2 {
+                margin-top: -180px;
+                margin-left: 140px;
+            }
+            .metalizados2 h3 {
+                margin-left: 140px;
+            }
+            .metalizadosc h2 {
+                margin-top: -180px;
+                margin-left: 155px;
+            }
+            .metalizadosc h3 {
+                margin-left: 155px;
+            }
+            .dix h2 {
+                margin-top: -180px;
+                margin-left: 160px;
+            }
+            .dix h3 {
+                margin-left: 160px;
+            }
+            .s160g h2 {
+                margin-top: -180px;
+                margin-left: 155px;
+            }
+            .s160g h3 {
+                margin-left: 155px;
+            }
+            .pellet h2 {
+                margin-top: -205px;
+                margin-left: 140px;
+            }
+            .pellet h3 {
+                margin-left: 140px;
+            }
+            .salgadinhos h2 {
+                margin-top: -205px;
+                margin-left: 120px;
+            }
+            .salgadinhos h3 {
+                margin-left: 120px;
+            }
+            .salgadinhosp h2 {
+                margin-top: -205px;
+                margin-left: 120px;
+            }
+            .salgadinhosp h3 {
+                margin-left: 120px;
+            }
+           footer {
+            height: 80px;
+            margin-top: 200px;
+        }
+        footer h1 {
+            font-size: 12px;
+        }
+        footer h1 a {
+            font-size: 15px;
+        }
+        footer h2 {
+            margin: 0px;
+            margin-top: -10px;
+            margin-left: 10px;
+        }
+        footer h2 a{
+            font-size: 12px;
+            text-align:  center;
+            padding: 0px;
+            padding-right: 10px;
+        }
+        footer h3 {
+            font-size: 12px;
+            margin: 0px;
+            padding: 0px;
+            margin-top: 3px;
+            margin-left: 10px;
+            
+        }
+        footer h3 a {
+            font-size: 12px;
+            margin: 0px;
+            padding: 0px;
+            padding-right: 10px;
+            
+        }
+    }
+    
         @media (max-width:375px) {
             header {
                 height: 90px;

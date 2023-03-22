@@ -757,6 +757,204 @@ footer h3 a {
     }
 }
 
+@media (max-width:479px) {
+    header {
+        height: 90px;
+    }
+    header h1 {
+        font-size: 50px;
+        margin-left: 12px;
+        margin-top: -10px;
+    }
+    header h2 {
+        font-size: 25px;
+        margin-top: -40px;
+        margin-left: 25px;
+    }
+    header h3 { 
+        word-spacing: 12px;
+        font-size: 12px;
+        height: 22px;
+        padding-top: 3px;
+        margin-top: 30px;
+        margin-left: 10px;
+        width: 456px;
+    }
+    header h5 {
+        font-size: 0;
+    }
+    header h6 {
+        font-size: 0;
+    }
+    main {
+        height: 9100px;
+        width: 456px;
+        margin-left: 10px;
+        margin-top: 70px;
+    }
+    main h1 {
+        font-size: 15px;
+        margin-left: 30px;
+    }
+    main h2 {
+        font-size: 12px;
+    }
+    main h3 {
+        font-size: 10px;
+    }
+    main h4 {
+        margin: 0px;
+        margin-top: 160px;
+        margin-bottom: -100px;
+    }
+    .achocolatado img {
+        height: 130px;
+        width: 120px;
+    }
+    .achocolatado h2 {
+        margin-top: -135px;
+        margin-left: 125px;
+    }
+    .achocolatado h3 {
+        margin-left: 125px;
+    }
+    .dajuda h2 {
+        margin-top: -135px;
+        margin-left: 150px;
+    }
+    .dajuda h3 {
+        margin-left: 150px;
+    }
+    .pimenta h2 {
+        margin-top: -135px;
+        margin-left: 100px;
+    }
+    .pimenta h3 {
+        margin-left: 100px;
+    }
+    .ul2d {
+        margin-top: 0px;
+        margin-left: -75px;
+    }
+    .molhom h2 {
+        margin-top: -135px;
+        margin-left: 110px;
+    }
+    .molhom h3 {
+        margin-left: 110px;
+    }
+    .molho h2 {
+        margin-top: -135px;
+        margin-left: 110px;
+    }
+    .molho h3 {
+        margin-left: 110px;
+    }
+    .molhog h2 {
+        margin-top: -135px;
+        margin-left: 148px;
+    }
+    .molhog h3 {
+        margin-left: 148px;
+    }
+    .molhoeg img {
+        height: 180px;
+    }
+    .molhoeg h2 {
+        margin-top: -185px;
+        margin-left: 140px;
+    }
+    .molhoeg h3 {
+        margin-left: 140px;
+    }
+    .molhop h2 {
+        margin-top: -135px;
+        margin-left: 120px;
+    }
+    .molhop h3 {
+        margin-left: 120px;
+    }
+    .sache h2 {
+        margin-top: -135px;
+        margin-left: 148px;
+    }
+    .sache h3 {
+        margin-left: 148px;
+    }
+    .sachev img {
+        height: 105px;
+        margin-left: 40px;
+    }
+    .sachev h2 {
+        margin-top: -110px;
+        margin-left: 175px;
+    }
+    .sachev h3 {
+        margin-left: 175px;
+    }
+    .gira {
+        margin-top: -100px;
+        margin-left: 70px;
+    }
+    .girassol h2 {
+        margin-top: -150px;
+        margin-left: 220px;
+    }
+    .girassol h3 {
+        margin-left: 220px;
+    }
+    .girassol2 h2 {
+        margin-top: -150px;
+        margin-left: 220px;
+    }
+    .girassol2 h3 {
+        margin-left: 220px;
+    }
+    .ul1g {
+        margin-left: 980px;
+    }
+    .ul2g {
+        margin-left: -20px;
+        margin-top: 200px;
+    }
+   footer {
+    height: 80px;
+    margin-top: 200px;
+}
+footer h1 {
+    font-size: 12px;
+}
+footer h1 a {
+    font-size: 15px;
+}
+footer h2 {
+    margin: 0px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+footer h2 a{
+    font-size: 12px;
+    text-align:  center;
+    padding: 0px;
+    padding-right: 10px;
+}
+footer h3 {
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 3px;
+    margin-left: 10px;
+    
+}
+footer h3 a {
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    padding-right: 10px;
+    
+}
+}
+
     @media (max-width:375px) {
         header {
             height: 90px;
